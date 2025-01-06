@@ -9,3 +9,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/OlegMongolRoblox/Hack
 ```
 ## Фотки чита
 ![ ](https://github.com/OlegMongolRoblox/Hacks/blob/main/photo_2025-01-06_18-21-12.jpg?raw=true)
+![ ](https://github.com/OlegMongolRoblox/Hacks/blob/main/photo_2025-01-06_18-34-26.jpg?raw=true)
