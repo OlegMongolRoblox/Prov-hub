@@ -11,6 +11,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/OlegMongolRoblox/Hack
 ![ ](https://github.com/OlegMongolRoblox/Hacks/blob/main/photo_2025-01-06_18-21-12.jpg?raw=true)
 ![ ](https://github.com/OlegMongolRoblox/Hacks/blob/main/photo_2025-01-06_18-34-26.jpg?raw=true)
 ![ ](https://github.com/OlegMongolRoblox/Hacks/blob/main/Снимок%20экрана%202025-01-06%20183614.png?raw=true)
+![ ](https://raw.githubusercontent.com/OlegMongolRoblox/Hacks/refs/heads/main/photo_2025-02-26_11-03-17.jpg)
 ## Функционал чита
 ### Телепорты
 + Больница
