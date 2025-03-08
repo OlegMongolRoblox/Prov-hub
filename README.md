@@ -4,6 +4,7 @@
 Я рекомендую **SOLARA**
 > [!CAUTION]
 > РАЗРАБЫ ОБНОВИЛИ АНТИЧИТ ПОКА ВРЕМЕННО ВСЁ НЕ РАБОТАЕТ ДЛЯ ПОЛУЧЕНИЯ ТОЛЬКО ПМ ИСПОЛЬЗУЙТЕ КОД НИЖЕ
+
 ТОЛЬКО ПМ
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OlegMongolRoblox/Hacks/refs/heads/main/Only%20gun"))()
