@@ -5,11 +5,13 @@
 > [!CAUTION]
 > РАЗРАБЫ ОБНОВИЛИ АНТИЧИТ ПОКА ВРЕМЕННО ВСЁ НЕ РАБОТАЕТ ДЛЯ ПОЛУЧЕНИЯ ТОЛЬКО ПМ ИСПОЛЬЗУЙТЕ КОД НИЖЕ
 
-ТОЛЬКО ПМ
+## ТОЛЬКО ПМ
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OlegMongolRoblox/Hacks/refs/heads/main/Only%20gun"))()
 ```
-Вставте это в инжектор и используйте
+Вставте это в инжектор и используйте 
+> [!CAUTION]
+> ВРЕМЕННО НЕ РАБОТАЕТ КОД СНИЗУ
 
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OlegMongolRoblox/Hacks/refs/heads/main/Last%20version"))()
