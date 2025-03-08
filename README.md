@@ -2,8 +2,14 @@
 ## ПЕРВЫЙ И ЛУЧШИЙ ЧИТ НА PROVINCE В ROBLOX
 Данный Скрипт Обсолютно бесплатен чтобы его использовать нужен __Injector__
 Я рекомендую **SOLARA**
-
+> [!CAUTION]
+> РАЗРАБЫ ОБНОВИЛИ АНТИЧИТ ПОКА ВРЕМЕННО ВСЁ НЕ РАБОТАЕТ ДЛЯ ПОЛУЧЕНИЯ ТОЛЬКО ПМ ИСПОЛЬЗУЙТЕ КОД НИЖЕ
+ТОЛЬКО ПМ
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OlegMongolRoblox/Hacks/refs/heads/main/Only%20gun"))()
+```
 Вставте это в инжектор и используйте
+
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OlegMongolRoblox/Hacks/refs/heads/main/Last%20version"))()
 ```
