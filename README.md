@@ -1,5 +1,7 @@
 # **Prov hub** BY Oleg Mongol and Blockrazz
 ## ПЕРВЫЙ И ЛУЧШИЙ ЧИТ НА PROVINCE В ROBLOX
+## АЗИМУТ ПИДОРАЗ АЗИМУТ ПИДОРАЗ АЗИМУТ ПИДОРАЗ АЗИМУТ ПИДОРАЗ АЗИМУТ ПИДОРАЗ 
+Наш дс - https://discord.gg/7T4mJnWYNF
 Данный Скрипт Обсолютно бесплатен чтобы его использовать нужен __Injector__
 Я рекомендую **SOLARA**
 > [!CAUTION]
