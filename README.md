@@ -16,7 +16,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/zqyDSUWX"))()
 > ВРЕМЕННО НЕ РАБОТАЕТ КОД СНИЗУ
 
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OlegMongolRoblox/Hacks/refs/heads/main/Last%20version"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/zqyDSUWX"))()
 ```
 ## Фотки чита
 ![ ](https://github.com/OlegMongolRoblox/Hacks/blob/main/photo_2025-01-06_18-21-12.jpg?raw=true)
