@@ -9,7 +9,7 @@
 
 ## ТОЛЬКО ПМ
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OlegMongolRoblox/Hacks/refs/heads/main/Only%20gun"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/zqyDSUWX"))()
 ```
 Вставте это в инжектор и используйте 
 > [!CAUTION]
